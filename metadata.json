@@ -1,0 +1,6 @@
+{
+  "name": "Lecture Helper",
+  "description": "AI lecture assistant helping international university students easily understand English lectures with simplified explanations, key terms, analogies, and classroom phrases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
