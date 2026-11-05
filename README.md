@@ -6,11 +6,11 @@
 
 ## Watch Demo
 
-**[下载 87 秒演示视频（MP4）](https://github.com/cynthia-builds/lecture-helper/releases/download/demo-video/1105.mp4)** · [查看 GitHub Release](https://github.com/cynthia-builds/lecture-helper/releases/tag/demo-video)
+**[在线观看 87 秒演示](https://github.com/cynthia-builds/lecture-helper/issues/1)** · [下载高清原版（MP4）](https://github.com/cynthia-builds/lecture-helper/releases/download/demo-video/1105.mp4) · [查看 GitHub Release](https://github.com/cynthia-builds/lecture-helper/releases/tag/demo-video)
 
 演示以机会成本为例，展示如何核对 AI 从课件中读到的内容、确认或修正结果，再查看通俗中文、简化英文和课堂提问示例。
 
-[![Lecture Helper 阅读核对界面，展示双语理解摘要、不确定性提示和人工确认选项](docs/lecture-helper-demo.jpg)](https://github.com/cynthia-builds/lecture-helper/releases/tag/demo-video)
+[![Lecture Helper 阅读核对界面，展示双语理解摘要、不确定性提示和人工确认选项](docs/lecture-helper-demo.jpg)](https://github.com/cynthia-builds/lecture-helper/issues/1)
 
 ## 用户问题与产品范围
 
