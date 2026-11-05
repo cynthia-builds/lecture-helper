@@ -4,6 +4,14 @@
 
 **状态：2026-10-14 功能冻结。现有 AI Studio 应用已实测运行；本仓库是该版本的完整源码导出与交付文档。不是已完成规模化验证的生产产品。**
 
+## Watch Demo
+
+**[下载 87 秒演示视频（MP4）](https://github.com/cynthia-builds/lecture-helper/releases/download/demo-video/1105.mp4)** · [查看 GitHub Release](https://github.com/cynthia-builds/lecture-helper/releases/tag/demo-video)
+
+演示以机会成本为例，展示如何核对 AI 从课件中读到的内容、确认或修正结果，再查看通俗中文、简化英文和课堂提问示例。
+
+[![Lecture Helper 阅读核对界面，展示双语理解摘要、不确定性提示和人工确认选项](docs/lecture-helper-demo.jpg)](https://github.com/cynthia-builds/lecture-helper/releases/tag/demo-video)
+
 ## 用户问题与产品范围
 
 目标用户是在英语授课环境学习的国际学生：课件里的专业术语、密集英文、数字约束和图示可能难以迅速理解；直接生成解释又可能把模型误读或推测当成课程事实。这是本项目要解决的用户问题假设，尚未通过用户访谈、真实用户量或学习效果研究验证。
@@ -12,7 +20,6 @@
 
 ## Demo 入口
 
-- [下载演示视频（MP4）](https://github.com/cynthia-builds/lecture-helper/releases/download/demo-video/1105.mp4)
 - 原项目：[Lecture Helper in Google AI Studio](https://aistudio.google.com/apps/5064ffd1-d840-4709-b839-350b6db3f924?showPreview=true&showAssistant=true)。由项目所有者登录展示。
 - 项目的开发预览曾用于全部真实测试；它依赖 AI Studio 开发运行环境，不能当作长期可用的公开作品链接。
 - 尚未验证匿名访问的正式发布 URL。面试推荐由所有者从原项目打开预览并共享屏幕。
