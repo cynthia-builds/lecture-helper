@@ -12,6 +12,7 @@
 
 ## Demo 入口
 
+- [下载演示视频（MP4）](https://github.com/cynthia-builds/lecture-helper/releases/download/demo-video/1105.mp4)
 - 原项目：[Lecture Helper in Google AI Studio](https://aistudio.google.com/apps/5064ffd1-d840-4709-b839-350b6db3f924?showPreview=true&showAssistant=true)。由项目所有者登录展示。
 - 项目的开发预览曾用于全部真实测试；它依赖 AI Studio 开发运行环境，不能当作长期可用的公开作品链接。
 - 尚未验证匿名访问的正式发布 URL。面试推荐由所有者从原项目打开预览并共享屏幕。
